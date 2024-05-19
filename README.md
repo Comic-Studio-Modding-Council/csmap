@@ -7,6 +7,8 @@ csmap
 <img src="https://github.com/Comic-Studio-Modding-Council/csmap/assets/75790567/60b3c195-2ea3-48a9-806b-d4184e917e09">
   </kbd>
 </p>
+Art by LaZy^BGSPA
+
 
 ```
 ================= [Intro] ============CSMC
